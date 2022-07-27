@@ -73,6 +73,8 @@ theme:
   favicon: assets/logo-circle.png
 
 plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true
   - search:
         lang: it
   - rss:
