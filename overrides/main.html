@@ -1,16 +1,5 @@
 {% extends "base.html" %}
 
-<!--
-{% block announce %}
-  <!-- Add announcement here, including arbitrary HTML -->
-  <p>Gli accessi al sito vengono tracciati da <b><a style="color:#f5f5f5 !important;" href="https://developers.google.com/analytics/devguides/collection/gtagjs/cookie-usage">Google Analytics </a></b>
-    <span class="twemoji">
-        {% include ".icons/check-solid.svg" %}
-    </span>
-  </p>
-{% endblock %}
--->
-
 {% block extrahead %}
 <!-- Open Graph / Facebook -->
     {% if page and page.meta and page.meta.og_title %}
