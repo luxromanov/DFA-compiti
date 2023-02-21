@@ -18,7 +18,3 @@ Uno degli obiettivi di questo progetto è quello di pubblicare non solo le soluz
 Si ringrazia il prof. Ruffino per aver curato l'archivio dei testi in formato PDF nel suo sito. 
 
 [NANOSTAR](https://nanostar.jimdofree.com/didattica-fisica-1/){ .md-button }
-
-## Credits
-- [Dennis Angemi](https://twitter.com/DennisAngemi)
-- [Open Data Sicilia](http://opendatasicilia.it/) | [Material for MkDocs boilerplate](https://github.com/opendatasicilia/ods-mkdocs-material)
