@@ -2,6 +2,10 @@
 
 Attualmente è presente il solo [compito del 25 novembre 2022](2022-11-25.md) (test).
 
+!!! warning
+
+    I contenuti pubblicati rappresentano dei test e non si assicura la correttezza delle soluzioni riportate.
+
 ## Workflow di pubblicazione
 
 [Immagine di input](https://t.me/c/1739191444/266) prelevata dal gruppo Telegram "Compiti DFA".

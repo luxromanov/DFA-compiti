@@ -73,6 +73,7 @@ theme:
   favicon: assets/logo-circle.png
 
 plugins:
+  - tags
   - git-revision-date-localized:
       enable_creation_date: true
   - search:
@@ -244,3 +245,7 @@ nav:
         - Home: geometria/index.md
         - 2022:
            - geometria/2022-11-25.md
+    - Meccanica analitica:
+        - Home: meccanica-analitica/index.md
+        - 2019:
+           - meccanica-analitica/2019-03-01.md
