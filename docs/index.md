@@ -14,5 +14,9 @@ In questo sito saranno raccolti i testi di alcuni esami sostenuti dagli studenti
 
 [Meccanica analitica :material-arrow-right:](meccanica-analitica/index.md){ .md-button }
 
+!!! warning
+
+    Questo sito è mantenuto da studenti e studentesse del Corso di Laurea in Fisica dell'Università di Catanie; attualmente non rappresenta una fonte ufficiale.
+
 ## Credits
 [Dennis Angemi](https://twitter.com/DennisAngemi), forked from [Open Data Sicilia](https://github.com/opendatasicilia/ods-mkdocs-material) 
