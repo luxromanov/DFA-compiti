@@ -10,5 +10,7 @@ In questo sito saranno raccolti i testi di alcuni esami sostenuti dagli studenti
 
 [Fisica Generale 1 :material-arrow-right:](fisica-1/index.md){ .md-button }
 
+[Geometria :material-arrow-right:](geometria/index.md){ .md-button }
+
 ## Credits
 [Dennis Angemi](https://twitter.com/DennisAngemi), forked from [Open Data Sicilia](https://github.com/opendatasicilia/ods-mkdocs-material) 
