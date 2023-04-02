@@ -12,5 +12,7 @@ In questo sito saranno raccolti i testi di alcuni esami sostenuti dagli studenti
 
 [Geometria :material-arrow-right:](geometria/index.md){ .md-button }
 
+[Meccanica analitica :material-arrow-right:](meccanica-analitica/index.md){ .md-button }
+
 ## Credits
 [Dennis Angemi](https://twitter.com/DennisAngemi), forked from [Open Data Sicilia](https://github.com/opendatasicilia/ods-mkdocs-material) 
