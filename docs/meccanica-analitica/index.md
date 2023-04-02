@@ -4,6 +4,9 @@
 
     I contenuti pubblicati rappresentano dei test e non si assicura la correttezza delle soluzioni riportate.
 
+Il prof. [Massimo Trovato](https://www.dmi.unict.it/trovato/) mette a disposizione i testi di alcuni compiti
+
+[:fontawesome-regular-file-pdf: Download](https://www.dmi.unict.it/trovato/Testi_compiti.pdf){ .md-button }
 
 ## Workflow di pubblicazione
 
