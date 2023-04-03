@@ -1,8 +1,14 @@
+---
+title: Meccanica analitica
+hide:
+  - toc
+---
+
 # Meccanica analitica
 
 !!! warning
 
-    I contenuti pubblicati rappresentano dei test e non si assicura la correttezza delle soluzioni riportate.
+    Sito in costruzione. Work in progress.
 
 Il prof. [Massimo Trovato](https://www.dmi.unict.it/trovato/) mette a disposizione i testi di alcuni compiti
 

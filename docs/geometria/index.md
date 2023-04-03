@@ -1,10 +1,16 @@
-# Geometria e algebra lineare
+---
+title: Geometria
+hide:
+  - toc
+---
 
-Attualmente è presente il solo [compito del 25 novembre 2022](2022-11-25.md) (test).
+# Geometria e algebra lineare
 
 !!! warning
 
     I contenuti pubblicati rappresentano dei test e non si assicura la correttezza delle soluzioni riportate.
+
+Attualmente è presente il solo [compito del 25 novembre 2022](2022-11-25.md) (test).
 
 ## Workflow di pubblicazione
 
