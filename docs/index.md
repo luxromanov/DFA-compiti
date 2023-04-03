@@ -18,4 +18,4 @@ In questo sito saranno raccolti i testi di alcuni esami sostenuti dagli studenti
 
 !!! info
 
-    Questo sito è mantenuto da studenti e studentesse del Corso di Laurea in Fisica dell'Università di Catanie; attualmente non rappresenta una fonte ufficiale. Qualora le soluzioni fossero fornite da docenti, esse saranno caratterizzate dalla spunta seguente per indicare che si tratta di contenti verificati:<br> :octicons-check-circle-fill-16: Soluzione ufficiale
+    Questo sito è mantenuto da studenti e studentesse del Corso di Laurea in Fisica dell'Università di Catania; attualmente non rappresenta una fonte ufficiale. Qualora le soluzioni fossero fornite da docenti, esse saranno caratterizzate dalla seguente icona per indicare che si tratta di contenuti verificati: :octicons-check-circle-fill-16:{ .green-check } Soluzione ufficiale
