@@ -1,10 +1,8 @@
 ---
-title: Geometria
+title: Geometria e algebra lineare
 hide:
   - toc
 ---
-
-# Geometria e algebra lineare
 
 !!! warning
 

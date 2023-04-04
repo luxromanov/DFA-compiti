@@ -299,3 +299,5 @@ nav:
             - meccanica-analitica/2022-09-02.md
          - 2023:
             - meccanica-analitica/2023-02-10.md
+      - Informatica e laboratorio:
+         - informatica/index.md
