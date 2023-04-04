@@ -48,6 +48,7 @@ theme:
   language: it
   features:
     - navigation.top
+    - navigation.footer
     - content.action.edit
     - navigation.tabs
 #    - navigation.sections
@@ -278,3 +279,23 @@ nav:
             - meccanica-analitica/2016-05-06.md
          - 2019:
             - meccanica-analitica/2019-03-01.md
+         - 2020:
+            - meccanica-analitica/2020-02-28.md
+            - meccanica-analitica/2020-07-17.md
+            - meccanica-analitica/2020-09-25.md
+         - 2021:
+            - meccanica-analitica/2021-02-26.md
+            - meccanica-analitica/2021-06-18.md
+            - meccanica-analitica/2021-07-16.md
+            - meccanica-analitica/2021-09-10.md
+            - meccanica-analitica/2021-09-24.md
+            - meccanica-analitica/2021-12-23.md
+         - 2022:
+            - meccanica-analitica/2022-02-04.md
+            - meccanica-analitica/2022-02-25.md
+            - meccanica-analitica/2022-04-15.md
+            - meccanica-analitica/2022-06-24.md
+            - meccanica-analitica/2022-07-22.md
+            - meccanica-analitica/2022-09-02.md
+         - 2023:
+            - meccanica-analitica/2023-02-10.md
