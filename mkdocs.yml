@@ -251,8 +251,30 @@ nav:
    - Secondo anno:
       - Home: cursus/secondo-anno.md
       - Fisica Generale 2:
-         - Home: fisica-2/index.md
+         - fisica-2/index.md
       - Meccanica analitica:
-         - Home: meccanica-analitica/index.md
+         - meccanica-analitica/index.md
+         - 2013:
+            - meccanica-analitica/2013-06-13.md
+            - meccanica-analitica/2013-06-24.md
+            - meccanica-analitica/2013-11-20.md
+         - 2014:
+            - meccanica-analitica/2014-03-03.md
+            - meccanica-analitica/2014-05-19.md
+            - meccanica-analitica/2014-06-27.md
+            - meccanica-analitica/2014-07-18.md
+            - meccanica-analitica/2014-09-12.md
+            - meccanica-analitica/2014-10-03.md
+            - meccanica-analitica/2014-11-06.md
+         - 2015:
+            - meccanica-analitica/2015-12-11.md
+            - meccanica-analitica/2015-12-14.md
+         - 2016:
+            - meccanica-analitica/2016-02-11.md
+            - meccanica-analitica/2016-02-12.md
+            - meccanica-analitica/2016-03-04.md
+            - meccanica-analitica/2016-04-20.md
+            - meccanica-analitica/2016-04-29.md
+            - meccanica-analitica/2016-05-06.md
          - 2019:
-             - meccanica-analitica/2019-03-01.md
+            - meccanica-analitica/2019-03-01.md

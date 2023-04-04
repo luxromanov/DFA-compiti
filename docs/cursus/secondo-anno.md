@@ -14,4 +14,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pulvinar venenati
 
 Vai ai contenuti 
 
-[Meccanica analitica :material-arrow-right:](meccanica-analitica/index.md){ .md-button }
+[Meccanica analitica :material-arrow-right:](../meccanica-analitica/index.md){ .md-button }
