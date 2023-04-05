@@ -247,8 +247,16 @@ nav:
             - fisica-1/2022/2022-02-16.md
       - Geometria:
          - Home: geometria/index.md
+         - 2021:
+            - geometria/2021-07-09.md
+            - geometria/2021-09-09.md
+            - geometria/2021-09-24.md
          - 2022:
+            - geometria/2022-01-28.md
+            - geometria/2022-02-25.md
             - geometria/2022-11-25.md
+         - 2023:
+            - geometria/2023-04-05.md
    - Secondo anno:
       - Home: cursus/secondo-anno.md
       - Fisica Generale 2:
