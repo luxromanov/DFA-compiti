@@ -19,14 +19,5 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
-      - run: pip install mkdocs-material
-      - run: pip install mkdocs-material-extensions>=1.0
-      - run: pip install mkdocs>=1.2.2
-      - run: pip install markdown>=3.2
-      - run: pip install mkdocs-click
-      - run: pip install Pygments>=2.4
-      - run: pip install pymdown-extensions>=9.0
-      - run: pip install mkdocs-git-revision-date-localized-plugin
-      - run: pip install mkdocs-rss-plugin
-      - run: pip install mkdocs-mermaid2-plugin
+      - run: pip install -r requirements.txt
       - run: mkdocs gh-deploy --force
