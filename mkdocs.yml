@@ -35,9 +35,9 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/UNICT-DMI/DFA-compiti
       name: GitHub
-#    - icon: fontawesome/solid/rss
-#      link: ../feed_rss_created.xml
-#      name: Feed RSS
+    - icon: fontawesome/solid/rss
+      link: ./feed_rss_created.xml
+      name: Feed RSS
 
 
 
