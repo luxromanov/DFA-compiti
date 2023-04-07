@@ -132,6 +132,7 @@ Una persona che mantiene il progetto riceverà le tue modifiche e le pubblicher�
 ### Sono unə studentə
 
 Puoi:
+
 1. Caricare un nuovo compito ([vai alla sezione](#voglio-caricare-un-nuovo-compito-1));
 2. aggiungere le soluzioni di un compito esistente ([vai alla sezione](#voglio-aggiungere-delle-soluzioni));
 3. modificare le soluzioni esistenti ([vai alla sezione](#voglio-modificare-delle-soluzioni));
