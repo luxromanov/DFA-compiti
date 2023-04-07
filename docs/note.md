@@ -131,8 +131,10 @@ Una persona che mantiene il progetto riceverà le tue modifiche e le pubblicher�
 
 ### Sono unə studentə
 
-!!! warning "Work in progress"
-    Sezione in costruzione. Intanto puoi seguire le istruzioni per docenti.
+Puoi:
+1. Caricare un nuovo compito ([vai alla sezione](#voglio-caricare-un-nuovo-compito-1));
+2. aggiungere le soluzioni di un compito esistente ([vai alla sezione](#voglio-aggiungere-delle-soluzioni));
+3. modificare le soluzioni esistenti ([vai alla sezione](#voglio-modificare-delle-soluzioni));
 
 #### Voglio caricare un nuovo compito
 
@@ -178,4 +180,4 @@ Arrivatə a questo punto, puoi seguire la procedura per caricare il file markdow
 [Leggi qui :material-arrow-right:](#voglio-modificare-delle-soluzioni){ .md-button }
 
 ## Credits
-[Dennis Angemi](https://twitter.com/DennisAngemi), forked from [Open Data Sicilia](https://github.com/opendatasicilia/ods-mkdocs-material) 
+Questo sito è mantenuto da [Dennis Angemi](https://twitter.com/DennisAngemi) che lo ha costruito con il supporto della community [Open Data Sicilia](https://github.com/opendatasicilia/ods-mkdocs-material). Sentiti liberə di contribuire!
