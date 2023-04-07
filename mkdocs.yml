@@ -309,3 +309,5 @@ nav:
             - meccanica-analitica/2023-02-10.md
       - Informatica e laboratorio:
          - informatica/index.md
+   - Note:
+      - note.md
