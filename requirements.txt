@@ -8,3 +8,4 @@ pymdown-extensions>=9.0
 mkdocs-git-revision-date-localized-plugin
 mkdocs-rss-plugin
 mkdocs-mermaid2-plugin
+mkdocs-include-markdown-plugin

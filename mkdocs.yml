@@ -75,6 +75,7 @@ theme:
   favicon: assets/logo-circle.png
 
 plugins:
+  - include-markdown
   - tags
   - git-revision-date-localized:
       type: timeago

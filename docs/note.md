@@ -22,6 +22,7 @@ Se sei unə docente, puoi:
 Di seguito vengono aggiunti i dettagli per ognuna di queste eventualità. Puoi saltare da una sezione all'altra dall'indice posizionato sulla destra
 
 #### Voglio caricare un nuovo compito
+
 Ammettiamo che il tuo compito sia stato scritto in LaTeX e il file che lo contiene sia denominato `compito.tex`. Sarà necessario convertire il file LaTeX in markdown. Ci sono tanti modi per farlo; per esempio puoi usare uno dei tanti tool online su cui atterri dopo aver cercato "latex to markdown converter online". Se invece vuoi effettuare la conversione da terminale, sotto un approfondimento.
 
 ??? example "Conversione da terminale"
@@ -56,26 +57,125 @@ Ottimo, adesso siamo prontə per caricare il nuovo compito su GitHub.
     - Dopo aver trascinato il file `YYYY-MM-DD.md` oppure averlo selezionato dal file explorer, aggiungi una descrizione (facoltativa), fai click su :octicons-git-pull-request-16:{.default-icon-color} `Create a new branch for this` e poi su **`Propose changes`**
 1. Se il tuo compito contiene delle immagini, ripeti la stessa procedura del punto precedente posizonandoti però nella cartella `materia-scelta/images` ad esempio `geometria/images`.
 
-!!! example
+Una persona che mantiene il progetto riceverà le tue modifiche e le pubblicherà il prima possibile. Grazie!
+
+!!! example "GitHub"
     Se vuoi evitare di seguire la procedura tramite la versione web di GitHub puoi comunque ottenere lo stesso risultato utilizzando [GitHub Desktop](https://desktop.github.com/) oppure il [terminale](https://git-scm.com/downloads).
 
 
 #### Voglio aggiungere delle soluzioni
-1. Individua il compito per cui vuoi aggiungere le soluzioni;
+
+1. Individua il compito per cui vuoi aggiungere le soluzioni semplicemente navigando il sito;
 1. fai click sul pulsante di modifica che trovi in ogni pagina in alto a destra (:material-file-edit-outline:);
-1. aggiungi le tue soluzioni scrivendo in LaTeX tra dollari (e.g. `$F=ma$`);
+1. individua lo spazio che è stato predisposto per le *soluzioni* e per lo *svolgimento* che sarà del tipo:
+```markdown title="2021-08-09.md"
+??? success "Visualizza le soluzioni"
+    {bla % bla include-markdown bla "../placeholder/soluzioni.md" bla % bla}
+
+??? note "Visualizza lo svolgimento"
+    {bla % bla include-markdown bla "../placeholder/svolgimento.md" bla % bla}
+```
+1. rimuovi il testo tra parentesi graffe e aggiungi le tue soluzioni scrivendo in LaTeX tra dollari. Sotto un esempio:
+```markdown title="2021-08-09.md"
+??? success "Visualizza le soluzioni"
+    - $F_1 = 1 \; N$
+    - $F_2 = 2 \; N$
+    - $F_3 = 3 \; N$
+
+??? note "Visualizza lo svolgimento"
+    Per determinare bla bla, è sufficiente sfruttare il teorema bla bla
+
+    - $F_1 = m a_1$
+    - $F_2 = m a_2$
+    - $F_3 = m a_3$
+```
+L'output sarà il seguente:
+
+    ??? success "Visualizza le soluzioni"
+        - $F_1 = 1 \; N$
+        - $F_2 = 2 \; N$
+        - $F_3 = 3 \; N$
+
+    ??? note "Visualizza lo svolgimento"
+        Per determinare bla bla, è sufficiente sfruttare il teorema bla bla
+
+        - $F_1 = m a_1$
+        - $F_2 = m a_2$
+        - $F_3 = m a_3$
 1. fornisci una descrizione (facoltativa);
 1. fai click su :octicons-git-pull-request-16:{.default-icon-color} `Create a new branch for this` e poi su **`Propose changes`**
 
 #### Voglio modificare delle soluzioni
-1. Individua il compito per cui vuoi modificare le soluzioni;
+
+1. Individua il compito per cui vuoi modificare le soluzioni semplicemente navigando il sito;
 1. fai click sul pulsante di modifica che trovi in ogni pagina in alto a destra (:material-file-edit-outline:);
+1. individua lo spazio che è stato predisposto per le *soluzioni* e per lo *svolgimento* che sarà del tipo:
+```markdown title="2021-08-09.md"
+??? success "Visualizza le soluzioni"
+    - $F_1 = 1 \; N$
+    - $F_2 = 2 \; N$
+    - $F_3 = 3 \; N$
+
+??? note "Visualizza lo svolgimento"
+    Per determinare bla bla, è sufficiente sfruttare il teorema bla bla
+
+    - $F_1 = m a_1$
+    - $F_2 = m a_2$
+    - $F_3 = m a_3$
+```
 1. effettua le tue modifiche;
 1. fornisci una descrizione (facoltativa);
-1. fai click su :octicons-git-pull-request-16:{.default-icon-color} `Create a new branch for this` e poi su **`Propose changes`**
+1. fai click su :octicons-git-pull-request-16:{.default-icon-color} `Create a new branch for this` e poi su **`Propose changes`**.
+
+Una persona che mantiene il progetto riceverà le tue modifiche e le pubblicherà il prima possibile. Grazie!
 
 ### Sono unə studentə
-Work in progress. Intanto puoi seguire le istruzioni per docenti.
+
+!!! warning "Work in progress"
+    Sezione in costruzione. Intanto puoi seguire le istruzioni per docenti.
+
+#### Voglio caricare un nuovo compito
+
+Se sei unə studentə, la procedura per caricare un nuovo compito è un po' più macchinosa rispetto a quella per ə docenti in quanto spesso non si ha a disposizione il codice sorgente LaTeX. La nostra materia prima saranno file PDF o peggio, immagini dei compiti scritti (vd. Gruppo Telegram "Compiti DFA").
+
+Immaginiamo di avere un'immagine di un compito denominata `compito.jpg`. Armiamoci di terminale e iniziamo a convertire un paio di documenti per alimentare l'archivio.  
+
+1. Installa  la utility `imagemagick` (che sarà utile per convertire `JPG` in `PDF`) lanciando
+```shell
+sudo apt update
+sudo apt install imagemagick
+```
+1. Utilizza `imagemagick` per convertire la foto del compito (`JPG`) in `PDF`
+```
+convert compito.jpg compito.pdf
+```
+1. Registrati a [MathPix](https://mathpix.com) (se utilizzi l'account universitario potrai accedere gratuitamente all'educational plan che offre più vantaggi rispetto a quello basic).
+1. Installa il servizio [CLI di MathPix](https://mathpix.com/mpx-cli)
+```shell
+sudo apt install npm
+npm install -g @mathpix/mpx-cli
+sudo npm install -g @mathpix/mpx-cli
+```
+1. Converti il PDF in LaTeX sfruttando MathPix
+```
+mpx convert compito.pdf compito.tex
+```
+1. Installa [Pandoc](https://pandoc.org/)
+```shell
+sudo apt-get install pandoc
+```
+1. Ottieni il file markdown (che fa da sorgente a queste pagine web) passando per Pandoc
+```
+pandoc -s -f latex -t markdown -o compito.md compito.tex
+```
+
+Arrivatə a questo punto, puoi seguire la procedura per caricare il file markdown (con le eventuali immagini) su GitHub seguendo gli stessi step dellə docenti ([vedi step](#voglio-caricare-un-nuovo-compito)).
+
+#### Voglio aggiungere delle soluzioni
+[Leggi qui :material-arrow-right:](#voglio-aggiungere-delle-soluzioni){ .md-button }
+
+#### Voglio modificare delle soluzioni
+[Leggi qui :material-arrow-right:](#voglio-modificare-delle-soluzioni){ .md-button }
 
 ## Credits
 [Dennis Angemi](https://twitter.com/DennisAngemi), forked from [Open Data Sicilia](https://github.com/opendatasicilia/ods-mkdocs-material) 
