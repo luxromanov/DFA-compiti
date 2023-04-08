@@ -77,7 +77,7 @@ theme:
 plugins:
   - include-markdown
   - tags:
-      tags_file: tags.md
+      tags_file: docenti.md
   - git-revision-date-localized:
       type: timeago
       enable_creation_date: true
