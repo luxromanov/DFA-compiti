@@ -1,1 +1,5 @@
-Non ancora disponibile. Se sei in possesso delle soluzioni, puoi contribuire al progetto facendo click sull'icona di modifica in alto a destra (devi essere in possesso di un account GitHub). Leggi di più su [come contribuire](../../note/#voglio-aggiungere-delle-soluzioni).
+Non ancora disponibili :(
+
+Se sei in possesso delle soluzioni, puoi valutare la possibilità di contribuire al progetto facendo click sull'icona di modifica in alto a destra (:material-file-edit-outline:) dopo aver creato un account [GitHub](https://github.com). 
+
+Leggi di più su [come contribuire](../../note).
