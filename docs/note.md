@@ -180,5 +180,11 @@ Arrivatə a questo punto, puoi seguire la procedura per caricare il file markdow
 #### Voglio modificare delle soluzioni
 [Leggi qui :material-arrow-right:](#voglio-modificare-delle-soluzioni){ .md-button }
 
+## Segnalazioni
+
+Se dovessi trovare un **errore** o vuoi segnalare qualche problema, puoi [aprire una issue da qui](https://github.com/UNICT-DMI/DFA-compiti/issues/new). Grazie!
+
+[Fai una segnalazione :material-arrow-right:](https://github.com/UNICT-DMI/DFA-compiti/issues/new){ .md-button }
+
 ## Credits
 Questo sito è mantenuto da [Dennis Angemi](https://twitter.com/DennisAngemi) che lo ha costruito con il supporto della community [Open Data Sicilia](https://opendatasicilia.it) (qui un [boilerplate](https://github.com/opendatasicilia/ods-mkdocs-material)). Sentiti liberə di contribuire!

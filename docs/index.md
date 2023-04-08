@@ -18,7 +18,12 @@ Vai ai contenuti
 [:material-school-outline: Terzo anno](cursus/terzo-anno.md){ .md-button }
 
 
-
 !!! info
 
     Questo sito è mantenuto da studenti e studentesse del Corso di Laurea in Fisica dell'Università di Catania; attualmente non rappresenta una fonte ufficiale. Qualora le soluzioni fossero fornite da docenti, esse saranno caratterizzate dalla seguente icona per indicare che si tratta di contenuti verificati: :octicons-check-circle-fill-16:{ .green-check } *Soluzione ufficiale*
+
+## Voglio contribuire
+
+Se vuoi contribuire al progetto o vuoi effettuare una segnalazione, leggi le note
+
+[Leggi le note :material-arrow-right:](note){ .md-button }
