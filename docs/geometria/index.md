@@ -10,7 +10,7 @@ Utilizza il **pannello di navigazione** sinistro per raggiungere il compito di t
 
     Sito in costruzione. La versione web dei testi dei compiti potrebbe contenere errori derivanti dalla conversione automatica dei contenuti (vd. [Workflow di pubblicazione](#workflow-di-pubblicazione)). Se noti imprecisioni, per favore segnalale (vd. [Segnalazioni](#segnalazioni))
 
-[Vai ai compiti :material-arrow-right:](2022-11-25.md){ .md-button }
+[Vai ai compiti :material-arrow-right:](2021-07-09.md){ .md-button }
 
 ## Come contribuire
 
