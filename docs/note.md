@@ -159,7 +159,6 @@ convert compito.jpg compito.pdf
 1. Installa il servizio [CLI di MathPix](https://mathpix.com/mpx-cli)
 ```shell
 sudo apt install npm
-npm install -g @mathpix/mpx-cli
 sudo npm install -g @mathpix/mpx-cli
 ```
 1. Converti il PDF in LaTeX sfruttando MathPix
