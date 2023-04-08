@@ -13,7 +13,12 @@ Consulta tutti i testi dei compiti di Fisica Generale 1 e le relative soluzioni 
 
 
 ## Come contribuire
-Uno degli obiettivi di questo progetto è quello di pubblicare non solo le soluzioni ma anche lo svolgimento dei problemi d'esame. Ti invitiamo a contribuire facendo click sull'icona di modifica in alto a destra (:material-file-edit-outline:) e inserendo lo svolgimento in `LaTeX` (e.g. `$F=ma$` restituisce $F=ma$). Sarà necessario un account GitHub (lo si crea in qualche secondo). Grazie!
+
+Puoi contribuire al progetto fornendo gli **svolgimenti** in LaTeX dei problemi online o caricando nuovi **compiti**.
+
+Le note dettagliate sul come fare sono disponbili [qui](../note).
+
+[Contribuisci :material-arrow-right:](note){ .md-button }
 
 ## Ringraziamenti
 Si ringrazia il prof. Ruffino per aver curato l'archivio dei testi in formato PDF nel suo sito. 
