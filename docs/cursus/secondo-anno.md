@@ -6,9 +6,8 @@ hide:
 
 # Secondo anno
 
-!!! warning
-
-    Sezione in costruzione. Work in progress 
+!!! warning "Work in progress"
+    Sezione in costruzione
 
 Vai ai contenuti 
 
