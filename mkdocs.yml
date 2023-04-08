@@ -247,7 +247,7 @@ nav:
             - fisica-1/2022/2022-02-02.md
             - fisica-1/2022/2022-02-16.md
       - Geometria:
-         - Home: geometria/index.md
+         - geometria/index.md
          - 2021:
             - geometria/2021-07-09.md
             - geometria/2021-09-09.md
