@@ -21,6 +21,4 @@ Le note dettagliate sul come fare sono disponbili [qui](../note).
 [Contribuisci :material-arrow-right:](note){ .md-button }
 
 ## Ringraziamenti
-Si ringrazia il prof. Ruffino per aver curato l'archivio dei testi in formato PDF nel suo sito. 
-
-[NANOSTAR](https://nanostar.jimdofree.com/didattica-fisica-1/){ .md-button }
+Si ringrazia il prof. Ruffino per aver curato l'archivio dei testi in formato PDF nel suo [sito](https://nanostar.jimdofree.com/didattica-fisica-1/). 
