@@ -22,7 +22,9 @@ Si ringrazia il prof. [Massimo Trovato](https://www.dmi.unict.it/trovato/) per a
 
 ## Come contribuire
 
-Puoi contribuire al progetto fornendo gli **svolgimenti** in LaTeX dei problemi online. 
+Puoi contribuire al progetto fornendo gli **svolgimenti** in LaTeX dei problemi online o caricando nuovi compiti.
+
+Le note dettagliate sul come fare sono disponbili [qui](../note). Di seguito un piccolo riassunto:
 
 1. Crea un account GitHub (puoi farlo da [qui](https://github.com/signup));
 2. fai click sul pulsante di modifica che trovi in ogni pagina in alto a destra (:material-file-edit-outline:);
