@@ -181,4 +181,4 @@ Arrivatə a questo punto, puoi seguire la procedura per caricare il file markdow
 [Leggi qui :material-arrow-right:](#voglio-modificare-delle-soluzioni){ .md-button }
 
 ## Credits
-Questo sito è mantenuto da [Dennis Angemi](https://twitter.com/DennisAngemi) che lo ha costruito con il supporto della community [Open Data Sicilia](https://github.com/opendatasicilia/ods-mkdocs-material). Sentiti liberə di contribuire!
+Questo sito è mantenuto da [Dennis Angemi](https://twitter.com/DennisAngemi) che lo ha costruito con il supporto della community [Open Data Sicilia](https://opendatasicilia.it) (qui un [boilerplate](https://github.com/opendatasicilia/ods-mkdocs-material)). Sentiti liberə di contribuire!
