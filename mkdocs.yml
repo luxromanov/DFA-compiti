@@ -76,7 +76,8 @@ theme:
 
 plugins:
   - include-markdown
-  - tags
+  - tags:
+      tags_file: tags.md
   - git-revision-date-localized:
       type: timeago
       enable_creation_date: true
