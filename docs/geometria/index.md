@@ -12,6 +12,14 @@ Utilizza il **pannello di navigazione** sinistro per raggiungere il compito di t
 
 [Vai ai compiti :material-arrow-right:](2022-11-25.md){ .md-button }
 
+## Come contribuire
+
+Puoi contribuire al progetto fornendo gli **svolgimenti** in LaTeX dei problemi online o caricando nuovi **compiti**.
+
+Le note dettagliate sul come fare sono disponbili [qui](../note).
+
+[Contribuisci :material-arrow-right:](../note){ .md-button }
+
 ## Workflow di pubblicazione
 
 Immagini di input prelevata dal gruppo Telegram "Compiti DFA".

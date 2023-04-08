@@ -31,6 +31,8 @@ Le note dettagliate sul come fare sono disponbili [qui](../note). Di seguito un 
 3. apporta le tue modifiche inserendo il _LaTeX_ tra dollari (`$F=ma$`);
 4. segui le istruzioni per effettuare una "Pull Request"
 
+[Contribuisci :material-arrow-right:](../note){ .md-button }
+
 ## Segnalazioni
 
 Se dovessi trovare un **errore** o vuoi segnalare qualche problema, puoi [aprire una issue da qui](https://github.com/UNICT-DMI/DFA-compiti/issues/new). Grazie!
