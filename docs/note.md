@@ -57,6 +57,9 @@ Ottimo, adesso siamo prontə per caricare il nuovo compito su GitHub.
     - Dopo aver trascinato il file `YYYY-MM-DD.md` oppure averlo selezionato dal file explorer, aggiungi una descrizione (facoltativa), fai click su :octicons-git-pull-request-16:{.default-icon-color} `Create a new branch for this` e poi su **`Propose changes`**
 1. Se il tuo compito contiene delle immagini, ripeti la stessa procedura del punto precedente posizonandoti però nella cartella `materia-scelta/images` ad esempio `geometria/images`.
 
+!!! tip
+    Se vuoi, puoi anche effettuare il caricamento del codice sorgente LaTeX e del testo del compito in formato PDF.
+
 Una persona che mantiene il progetto riceverà le tue modifiche e le pubblicherà il prima possibile. Grazie!
 
 !!! example "GitHub"
