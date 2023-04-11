@@ -174,6 +174,19 @@ sudo apt-get install pandoc
 pandoc -s -f latex -t markdown -o compito.md compito.tex
 ```
 
+!!! example "Tool"
+    Se vuoi lanciare tutti i comandi precedenti scrivendo **una sola riga** da terminale, puoi usare il tool [`tomkd`](https://github.com/dennisangemi/tomkd) ([leggi qui](https://github.com/dennisangemi/tomkd#set-up) se vuoi installarlo).<br>Essendo posizionati nella cartella `analisi-2`, ad esempio, possiamo convertire un compito di *Analisi 2* semplicemente lanciando:
+    ```bash
+    tomkd -i pdf/to_be_converted/3dicembre2018.pdf -o 2018-12-03.md -t "Giuseppa Rita Cirmi"
+    ```
+    in cui:
+
+    - con `-i` si indica il file di input (`pdf/to_be_converted/3dicembre2018.pdf`);
+    - con `-o` si indica il file di output (`2018-12-03.md`);
+    - con `-i` il tag che in questo caso coincide con il nome e il cognome del/la docente che ha somminisrato il compito.
+
+    Verrà generato automaticamente il file `2018-12-03.md` e, se presenti, verranno estratte anche tutte le immagini incluse nel documento `pdf` di input organizzandole appositamente in una directory `images/`.
+
 Arrivatə a questo punto, puoi seguire la procedura per caricare il file markdown (con le eventuali immagini) su GitHub seguendo gli stessi step dellə docenti ([vedi step](#voglio-caricare-un-nuovo-compito)).
 
 #### Voglio aggiungere delle soluzioni
