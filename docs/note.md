@@ -183,7 +183,7 @@ pandoc -s -f latex -t markdown -o compito.md compito.tex
 
     - con `-i` si indica il file di input (`pdf/to_be_converted/3dicembre2018.pdf`);
     - con `-o` si indica il file di output (`2018-12-03.md`);
-    - con `-i` il tag che in questo caso coincide con il nome e il cognome del/la docente che ha somminisrato il compito.
+    - con `-t` il tag che in questo caso coincide con il nome e il cognome del/la docente che ha somminisrato il compito.
 
     Verrà generato automaticamente il file `2018-12-03.md` e, se presenti, verranno estratte anche tutte le immagini incluse nel documento `pdf` di input organizzandole appositamente in una directory `images/`.
 
