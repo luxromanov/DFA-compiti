@@ -161,6 +161,10 @@ convert compito.jpg compito.pdf
 sudo apt install npm
 sudo npm install -g @mathpix/mpx-cli
 ```
+1. Effettua il login da terminale
+```
+mpx login
+```
 1. Converti il PDF in LaTeX sfruttando MathPix
 ```
 mpx convert compito.pdf compito.tex
